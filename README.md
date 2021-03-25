@@ -2,5 +2,5 @@
 EXERCÍCIOS DO SCRATCH
 
 Variáveis e operadores aritmeticos
-# https://scratch.mit.edu/projects/501218092
+# https://scratch.mit.edu/users/SamiraOliveira/
 Algorítmos do VisualG e Scratch
