@@ -3,5 +3,5 @@ EXERCÍCIOS DO SCRATCH
 
 Variáveis e operadores aritmeticos
 # https://scratch.mit.edu/users/SamiraOliveira/
-# https://drive.google.com/drive/folders/1HWF3xjFeg07w2S_GkkGfMOktQqdYdKga?usp=sharing
+# <https://drive.google.com/drive/folders/1HWF3xjFeg07w2S_GkkGfMOktQqdYdKga?usp=sharing> Draw.io
 Algorítmos do VisualG e Scratch
